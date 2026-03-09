@@ -74,7 +74,15 @@ Before performing analysis, several preprocessing steps were completed:
 
 <img width="773" height="598" alt="Screenshot 2026-03-09 153318" src="https://github.com/user-attachments/assets/b651dd5c-17b6-4b8f-abb9-40de3f8f2c56" />
 
+# How to Run This Project
+Clone the repository
+git clone https://github.com/jannatulfeva/netflix_movie_data_analysis.git
 
+Install required libraries
+pip install pandas numpy matplotlib seaborn
+
+Open and run the notebook
+Run the notebook: netflix_movie_data_analysis.ipynb
 
 
 
